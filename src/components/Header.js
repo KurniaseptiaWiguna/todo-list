@@ -14,6 +14,8 @@ export default function Header() {
 
 const ComponentContainer = styled.View`
   height: 100px;
+  background-color: midnightblue;
+  margin-bottom: 15px;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
